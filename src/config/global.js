@@ -299,12 +299,38 @@ export const creditos = {
       cargo: 'Integración de recursos y pruebas',
     },
     {
-      nombre: ['Carlos Julián Ramírez Benítez'],
-      cargo: 'Diseño web y Producción Audiovisual',
+      nombre: [
+        'Zuleidy María Ruiz Torres',
+        'Wilson Andrés Arenales',
+        'Gilberto Junior Rodriguez ',
+        'Maria Carolina Tamayo ',
+        'Víctor Cardenas',
+        'Carmen Martinez',
+        'Arnulfo Beltrán Mojica',
+        'Oleg Litvin',
+        'Andrés Herrera',
+      ],
+      cargo: 'Producción audiovisual',
     },
     {
-      nombre: 'Camilo Andres Bolaño Rey',
+      nombre: [
+        'Carlos Julián Ramírez Benítez',
+        'Yuly Andrea Rey Quiñonez',
+        'Jorge Armando Villamizar Moreno',
+      ],
+      cargo: 'Diseño web',
+    },
+    {
+      nombre: [
+        'Luis Jesús Pérez Madariaga',
+        'Camilo Andrés Bolaño Rey',
+        'Luis Fabian Robles Méndez',
+      ],
       cargo: 'Desarrollo Front-End',
+    },
+    {
+      nombre: ['María Isabel Román Rueda'],
+      cargo: 'Validación de diseño y contenido  ',
     },
     {
       centro: 'Centro Industrial del Diseño y la Manufactura',
