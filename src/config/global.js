@@ -1,6 +1,6 @@
 export const global = {
   nombrePrograma: 'Acreditación en Salud',
-  codigo: '33110261',
+  codigo: '33110262',
   horas: 48,
   semanas: 1,
   modalidad: 'Virtual',

@@ -7,7 +7,7 @@ section
     .titulo__template--a.mb-4
       span.h6 1. Presentación
 
-    p Bienvenido apreciado aprendiz al programa de formación complementaria de acreditación en salud, el cual le permitirá implementar una herramienta de mejora continua y aplicar técnicas para los procesos de evaluación externa, el acceso gradual y continuo de las entidades que conforman el sector  e impactar en la calidad de vida de los usuaria del sistema general de seguridad social, además de los indicadores sociales del país, a través de contenidos que le permitan reconocer las normas asociadas al proceso de acreditación, aplicar estándares para realizar la autoevaluación e implementar planes de mejora, la formación está dirigida al talento humano en salud y personal administrativo del sector.
+    p Bienvenido apreciado aprendiz al programa de formación complementaria de acreditación en salud, el cual le permitirá implementar una herramienta de mejora continua y aplicar técnicas para los procesos de evaluación externa, el acceso gradual y continuo de las entidades que conforman el sector  e impactar en la calidad de vida de los usuarios del sistema general de seguridad social, además de los indicadores sociales del país, a través de contenidos que le permitan reconocer las normas asociadas al proceso de acreditación, aplicar estándares para realizar la autoevaluación e implementar planes de mejora, la formación está dirigida al talento humano en salud y personal administrativo del sector.
 
   .container.tarjeta.tarjeta__template--azul-claro.px-3.py-4.px-sm-5.pb-sm-5.mb-5
     .titulo__template--a.mb-4
@@ -47,7 +47,20 @@ section
     p Centrada en la construcción de autonomía para garantizar la calidad de la formación en el marco de la formación por competencias, el aprendizaje por proyectos y el uso de técnicas didácticas activas que estimulan el pensamiento para la resolución de problemas simulados y reales; soportadas en el utilización de las tecnologías de la información y la comunicación, integradas, en ambientes virtuales de aprendizaje, que en todo caso recrean el contexto productivo y vinculan al aprendiz con la realidad cotidiana y el desarrollo de las competencias. 
       br
       br
-      |Igualmente, debe estimular de manera permanente la autocrítica y la reflexión del aprendiz sobre el que hacer y los resultados de aprendizaje que logra a través de la vinculación activa de las cuatro fuentes de información para la construcción de conocimiento:
+      |Igualmente, debe estimular de manera permanente la autocrítica y la reflexión del aprendiz sobre el quehacer y los resultados de aprendizaje que logra a través de la vinculación activa de las cuatro fuentes de información para la construcción de conocimiento:
+    ul.lista-ul.mt-3
+        li 
+          i.lista-ul__vineta
+          | El instructor – tutor.
+        li 
+          i.lista-ul__vineta
+          | El entorno.
+        li 
+          i.lista-ul__vineta
+          | Las TIC.
+        li 
+          i.lista-ul__vineta
+          | El trabajo colaborativo.
     
 
 
