@@ -21,7 +21,7 @@
               p.h6.mb-0.me-3.banner-principal__datos__item__titulo Total Horas: 
               p.banner-principal__datos__item__texto {{globalData.horas}} hora{{globalData.horas > 1 ? 's':''}}
             li.mb-3.banner-principal__datos__item
-              p.h6.mb-0.me-3.banner-principal__datos__item__titulo Duración en semanas: 
+              p.h6.mb-0.me-3.banner-principal__datos__item__titulo Duración en meses: 
               p.banner-principal__datos__item__texto {{globalData.semanas}} semana{{globalData.semanas > 1 ? 's':''}}
             li.mb-3.banner-principal__datos__item
               p.h6.mb-0.me-3.banner-principal__datos__item__titulo Modalidad: 
